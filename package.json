@@ -1,0 +1,12 @@
+{
+  "name": "@arsenicjs/inspector",
+  "version": "0.1.0",
+  "description": "A arsenicjs request inspector",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@arsenicjs/core": "0.4.0",
+    "moment": "^2.24.0",
+    "nunjucks": "^3.2.1"
+  }
+}
